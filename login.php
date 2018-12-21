@@ -19,5 +19,5 @@
 	}
 	echo json_encode($response);
 
-	#Hello
+
 ?>
